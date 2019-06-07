@@ -6,11 +6,14 @@ To set up:
 It's recommended that you use virtualenv so that existing packages aren't tempered with. You'll need Python 3 installed with pip.
 Run:
 `pip install tweepy`
+
 `pip install textblob`
+
 `pip install csv`
+
 `pip install os`
 
-### How to use
+## How to use
 I made a file name main you can put it in your site packages or in the same folder. To locate your site-packages Run the following commands in your terminal:
 
 `$ python`
